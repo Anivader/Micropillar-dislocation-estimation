@@ -2,7 +2,7 @@
 An automated method for estimating micropillar dislocation induced by _C. Elegans_ worms using bright-field videos &amp; image processing
 
 ## To install Python dependencies
-    pip install -r Dependencies.txt
+    pip install -r dependencies.txt
 
 ## How to run  
     python pillar_dislocation.py
