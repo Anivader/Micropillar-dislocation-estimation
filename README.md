@@ -4,6 +4,9 @@ An automated method for estimating micropillar dislocation induced by _C. Elegan
 ## To install Python dependencies
     pip install -r Dependencies.txt
 
+## How to run  
+    python pillar_dislocation.py
+
 ## **Dataset** 
 Bright-field microscopy videos of _C. Elegans_ worms traversing through a microfluidic chamber, consisting of a micropillar array. The pillars are not rigid but deformable since the devices are made from PDMS.  
 
