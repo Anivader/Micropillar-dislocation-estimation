@@ -2,7 +2,7 @@
 An automated method for estimating micropillar dislocation induced by _C. Elegans_ worms using bright-field videos &amp; image processing  
 
 ## **Dataset** 
-Bright-field microscopy videos of _C. Elegans_ worms traversing through a microfluidic chamber, consisting of a micropillar array. The pillars are not rigid but deformable since the fevices are made from PDMS.  
+Bright-field microscopy videos of _C. Elegans_ worms traversing through a microfluidic chamber, consisting of a micropillar array. The pillars are not rigid but deformable since the devices are made from PDMS.  
 
 ## **Objectives**
 [1] Detect micropillars contacted by worms along with “duration” of contact.  
