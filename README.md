@@ -1,5 +1,8 @@
 # Micropillar-dislocation-estimation
-An automated method for estimating micropillar dislocation induced by _C. Elegans_ worms using bright-field videos &amp; image processing  
+An automated method for estimating micropillar dislocation induced by _C. Elegans_ worms using bright-field videos &amp; image processing
+
+## To install Python dependencies
+    pip install -r Dependencies.txt
 
 ## **Dataset** 
 Bright-field microscopy videos of _C. Elegans_ worms traversing through a microfluidic chamber, consisting of a micropillar array. The pillars are not rigid but deformable since the devices are made from PDMS.  
