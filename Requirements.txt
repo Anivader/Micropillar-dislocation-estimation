@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+numba
+pymlfunc
+scipy
+cv2
+PIL
+skimage
+os
+time
+timeit
+tkinter
