@@ -9,7 +9,7 @@ Run in terminal
 ## How to run  
 Run in terminal
 
-    python pillar_dislocation.py
+    python main.py
 
 ## **Dataset** 
 Bright-field microscopy videos of _C. Elegans_ worms traversing through a microfluidic chamber, consisting of a micropillar array. The pillars are not rigid but deformable since the devices are made from PDMS.  
