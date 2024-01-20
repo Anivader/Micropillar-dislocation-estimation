@@ -1,4 +1,4 @@
-# Micropillar-dislocation-estimation
+# Worm-micropillar-dislocation
 An automated method for estimating micropillar dislocation induced by _C. Elegans_ worms using bright-field videos &amp; image processing
 
 ## To install Python dependencies  
