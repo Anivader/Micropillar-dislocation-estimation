@@ -31,10 +31,10 @@ The algorithm can be broken down into the following steps -
 ## **Results**  
 "Worm pillars" (encircled in gray), i.e. micropillars contaced by the worm are detected in every video frame. Pillars which were contacted for <=5 frames are eliminated as the measurements get noisy. Our algorithm eliminates any unwanted false positives such as debris, gunk etc.  
 
-<img width="700" alt="12001" src="https://github.com/Anivader/Micropillar-dislocation-estimation/assets/33497062/c2ed945c-253c-45a4-8025-792c85d66860">
+<img width="600" alt="12001" src="https://github.com/Anivader/Micropillar-dislocation-estimation/assets/33497062/c2ed945c-253c-45a4-8025-792c85d66860">  
 
 Animation below shows the dislocation profile (magnitude + direction) for one of the pillars contacted by the worm. The two red, vertical lines indicate the first and last frames the particular pillar was contacted. In general, it is not necessary that the worm contacts the pillar for all frames between the first and last. 
 
-<img width="600" alt="Pillar_44" src="https://github.com/Anivader/Micropillar-dislocation-estimation/assets/33497062/8bb9f1c6-d3ce-4e02-9c34-299f20a22141">
+<img width="500" alt="Pillar_44" src="https://github.com/Anivader/Micropillar-dislocation-estimation/assets/33497062/8bb9f1c6-d3ce-4e02-9c34-299f20a22141">
 
 
